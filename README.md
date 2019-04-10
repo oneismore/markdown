@@ -1,20 +1,18 @@
-# Markdown gids
+# Basisbeginselen van Markdown
 
-Basisbeginselen van Markdown
-Koppen
+## Koppen
 Als u een kop wilt maken, gebruikt u een hash (#), als volgt:
-markdown
 
-Kopiëren
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-Headers moeten in ATX-stijl worden gemaakt, dat wil zeggen dat aan het begin van de regel 1 tot 6 hekjes (#) moeten staan om een header aan te duiden overeenkomstig de HTML-headerniveaus H1 tot H6. Hierboven vindt u voorbeelden van headers van het eerste tot vierde niveau.
-Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
-Als uw header met een # eindigt, moet u aan het eind nog een # toevoegen zodat de titel correct wordt weergegeven. Bijvoorbeeld # Async Programming in F# #.
-Met de headers op het tweede niveau wordt de inhoudsopgave op de pagina gegenereerd die wordt weergegeven in de sectie 'In dit artikel' onder de titel op de pagina.
-Vetgedrukte en cursieve tekst
+```
+# Dit is kop 1
+## Dit is kop 2
+### Dit is kop 3
+#### Dit is kop 4
+```
+
+Koppen moeten in ATX-stijl worden gemaakt, dat wil zeggen dat aan het begin van de regel 1 tot 6 hekjes (#) moeten staan om een kop aan te duiden overeenkomstig de HTML-headerniveaus H1 tot H6. Hierboven vindt u voorbeelden van headers van het eerste tot vierde niveau. Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
+
+## Vetgedrukte en cursieve tekst
 Als u tekst als vet wilt opmaken, zet u de tekst tussen dubbele sterretjes:
 markdown
 
