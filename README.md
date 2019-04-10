@@ -16,26 +16,32 @@ Koppen moeten in ATX-stijl worden gemaakt, dat wil zeggen dat aan het begin van 
 Als u tekst als vet wilt opmaken, zet u de tekst tussen dubbele sterretjes:
 markdown
 
-Kopiëren
-This text is **bold**.
+```
+Deze tekst is **bold**.
+```
+
 Als u tekst als cursief wilt opmaken, zet u de tekst tussen enkele sterretjes:
-markdown
 
-Kopiëren
-This text is *italic*.
+```
+Deze tekst is *italic*.
+```
+
 Als u tekst als vet en cursief wilt opmaken, zet u de tekst tussen driedubbele sterretjes:
-markdown
 
-Kopiëren
-This is text is both ***bold and italic***.
-Blokcitaten
+```
+Deze tekst is zowel ***bold als italic***.
+```
+
+## Blokcitaten
 Blokcitaten worden gemaakt met het teken >:
-markdown
 
-Kopiëren
+```
 > The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.
+```
+
 Het voorbeeld hierboven wordt als volgt weergegeven:
-The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.
+> The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.
+
 Lijsten
 Ongeordende lijst
 Als u een ongeordende lijst of een lijst met opsommingstekens wilt opmaken, kunt u sterretjes of streepjes gebruiken. Zo wordt de volgende Markdown:
