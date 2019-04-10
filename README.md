@@ -32,6 +32,17 @@ Als u tekst als vet en cursief wilt opmaken, zet u de tekst tussen driedubbele s
 Deze tekst is zowel ***bold als italic***.
 ```
 
+## Horizontale lijn
+Als u een horizontale lijn wilt toevoegen om teksten te scheiden gebruikt u 4 sterretjes:
+
+```
+****
+```
+
+Het voorbeeld hierboven wordt als volgt weergegeven:
+
+****
+
 ## Blokcitaten
 Blokcitaten worden gemaakt met het teken >:
 
