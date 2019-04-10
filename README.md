@@ -16,19 +16,19 @@ Koppen moeten in ATX-stijl worden gemaakt, dat wil zeggen dat aan het begin van 
 Als u tekst als vet wilt opmaken, zet u de tekst tussen dubbele sterretjes:
 
 ```
-Deze tekst is **bold**.
+Deze tekst is **vet**.
 ```
 
 Als u tekst als cursief wilt opmaken, zet u de tekst tussen enkele sterretjes:
 
 ```
-Deze tekst is *italic*.
+Deze tekst is *cursief*.
 ```
 
 Als u tekst als vet en cursief wilt opmaken, zet u de tekst tussen driedubbele sterretjes:
 
 ```
-Deze tekst is zowel ***bold als italic***.
+Deze tekst is zowel ***vet als cursief***.
 ```
 
 ## Link
@@ -45,7 +45,7 @@ Met tekst er bij:
 ```
 
 ## E-mailadres
-Een [e-mailadres](mailto:info@website.nl) maakt u als volgt:
+Een link naar een e-mailadres maakt u als volgt:
 
 ```
 <info@website.nl>
