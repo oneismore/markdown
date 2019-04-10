@@ -14,7 +14,6 @@ Koppen moeten in ATX-stijl worden gemaakt, dat wil zeggen dat aan het begin van 
 
 ## Vetgedrukte en cursieve tekst
 Als u tekst als vet wilt opmaken, zet u de tekst tussen dubbele sterretjes:
-markdown
 
 ```
 Deze tekst is **bold**.
@@ -30,6 +29,32 @@ Als u tekst als vet en cursief wilt opmaken, zet u de tekst tussen driedubbele s
 
 ```
 Deze tekst is zowel ***bold als italic***.
+```
+
+## Link
+Als u een [link](http://wikipedia.org) wilt maken dan doet u dat als volgt:
+
+```
+<http://wikipedia.org>
+```
+
+Met tekst er bij:
+
+```
+[Wikipedia](http://wikipedia.org)
+```
+
+## E-mailadres
+Een [e-mailadres](mailto:info@website.nl) maakt u als volgt:
+
+```
+<info@website.nl>
+```
+
+Met tekst er bij:
+
+```
+[Stuur me een e-mail](mailto:info@website.nl)
 ```
 
 ## Horizontale lijn
