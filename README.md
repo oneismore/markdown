@@ -10,7 +10,7 @@ Als u een kop wilt maken, gebruikt u een hash (#), als volgt:
 #### Dit is kop 4
 ```
 
-Koppen moeten in ATX-stijl worden gemaakt, dat wil zeggen dat aan het begin van de regel 1 tot 6 hekjes (#) moeten staan om een kop aan te duiden overeenkomstig de HTML-headerniveaus H1 tot H6. Hierboven vindt u voorbeelden van headers van het eerste tot vierde niveau. Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
+Hierboven vindt u voorbeelden van headers (H1, H2, H3 en H4) van het eerste tot vierde niveau maar niveau's tot en met 6 zijn mogelijk. Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
 
 ## Vetgedrukte en cursieve tekst
 Als u tekst als vet wilt opmaken, zet u de tekst tussen dubbele sterretjes:
