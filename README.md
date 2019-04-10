@@ -36,79 +36,71 @@ Deze tekst is zowel ***bold als italic***.
 Blokcitaten worden gemaakt met het teken >:
 
 ```
-> The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.
+> Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
 ```
 
 Het voorbeeld hierboven wordt als volgt weergegeven:
-> The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.
+> Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
 
-Lijsten
-Ongeordende lijst
+## Lijsten
+
+### Ongeordende lijst
 Als u een ongeordende lijst of een lijst met opsommingstekens wilt opmaken, kunt u sterretjes of streepjes gebruiken. Zo wordt de volgende Markdown:
-markdown
 
-Kopiëren
+```
 - List item 1
 - List item 2
 - List item 3
-weergegeven als:
-Lijstitem 1
-Lijstitem 2
-Lijstitem 3
-Als u een lijst in een andere lijst wilt nesten, laat u de lijstitems van de onderliggende lijst inspringen. Zo wordt de volgende Markdown:
-markdown
+```
 
-Kopiëren
+weergegeven als:
+- Lijstitem 1
+- Lijstitem 2
+- Lijstitem 3
+
+Als u een lijst in een andere lijst wilt nesten, laat u de lijstitems van de onderliggende lijst inspringen. Zo wordt de volgende Markdown:
+
+```
 - List item 1
   - List item A
   - List item B
 - List item 2
-weergegeven als:
-Lijstitem 1
-Lijstitem A
-Lijstitem B
-Lijstitem 2
-Geordende lijst
-Als u een geordende lijst/stapsgewijze lijst wilt opmaken, gebruikt u de bijbehorende nummers. Zo wordt de volgende Markdown:
-markdown
+```
 
-Kopiëren
+weergegeven als:
+
+- List item 1
+  - List item A
+  - List item B
+- List item 2
+
+### Geordende lijst
+Als u een geordende lijst/stapsgewijze lijst wilt opmaken, gebruikt u de bijbehorende nummers. Zo wordt de volgende Markdown:
+
+```
 1. First instruction
 1. Second instruction
 1. Third instruction
-weergegeven als:
-Eerste instructie
-Tweede instructie
-Derde instructie
-Als u een lijst in een andere lijst wilt nesten, laat u de lijstitems van de onderliggende lijst inspringen. Zo wordt de volgende Markdown:
-markdown
+```
 
-Kopiëren
+weergegeven als:
+1. First instruction
+1. Second instruction
+1. Third instruction
+
+Als u een lijst in een andere lijst wilt nesten, laat u de lijstitems van de onderliggende lijst inspringen. Zo wordt de volgende Markdown:
+
+```
 1. First instruction
    1. Sub-instruction
    1. Sub-instruction
 1. Second instruction
-weergegeven als:
-Eerste instructie
-Subinstructie
-Subinstructie
-Tweede instructie
-Merk op dat we '1.' gebruiken voor alle vermeldingen. Hierdoor is het eenvoudiger om later verschillen te beoordelen als er in latere updates nieuwe stappen worden toegevoegd of bestaande stappen worden verwijderd.
-Tabellen
-Tabellen maken geen onderdeel uit van de Markdown-kernspecificatie, maar ze worden ondersteund door GFM. Tabellen kunt u maken met het sluisteken (|) en afbreekstreepjes (-). Met afbreekstreepjes maakt u de kolomkoppen. Met het sluisteken scheidt u de kolommen van elkaar. Voeg voor de tabel een lege regel in, zodat de tabel correct wordt weergegeven.
-Zo wordt de volgende Markdown:
-markdown
+```
 
-Kopiëren
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
 weergegeven als:
-Pret	met	Tabellen
-links uitgelijnde kolom	rechts uitgelijnde kolom	gecentreerde kolom
-USD 100	USD 100	USD 100
-USD 10	USD 10	USD 10
-USD 1	USD 1	USD 1
+1. First instruction
+   1. Sub-instruction
+   1. Sub-instruction
+1. Second instruction
+
+Merk op dat we '1.' gebruiken voor alle vermeldingen. Hierdoor is het eenvoudiger om later verschillen te beoordelen als er in latere updates nieuwe stappen worden toegevoegd of bestaande stappen worden verwijderd.
