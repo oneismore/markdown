@@ -1,7 +1,7 @@
 # Basisbeginselen van Markdown
 
 ## Koppen
-Als u een kop wilt maken, gebruikt u een hash (#), als volgt:
+Als u een kop (header) wilt maken, gebruikt u een hash (#), als volgt:
 
 ```
 # Dit is kop 1 (H1)
@@ -9,6 +9,7 @@ Als u een kop wilt maken, gebruikt u een hash (#), als volgt:
 ### Dit is kop 3 (h3)
 #### Dit is kop 4 (h4)
 ```
+
 De titel van dit document "Basisbeginselen van Markdown" is een voorbeeld van een H1 kop.
 
 Hierboven vindt u voorbeelden van headers (H1, H2, H3 en H4) van het eerste tot vierde niveau maar niveau's tot en met 6 zijn mogelijk. Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
@@ -75,14 +76,16 @@ Het voorbeeld hierboven wordt als volgt weergegeven:
 ****
 
 ## Blokcitaten
-Blokcitaten worden gemaakt met het teken >:
+Blokcitaten (quotes) worden gemaakt met het teken >:
 
 ```
-> Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+> Caravans willen helemaal niet op vakantie. Vandaar dat die auto's zo hard moeten trekken.
+> Kees van Kooten
 ```
 
 Het voorbeeld hierboven wordt als volgt weergegeven:
-> Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+> Caravans willen helemaal niet op vakantie. Vandaar dat die auto's zo hard moeten trekken.
+> Kees van Kooten
 
 ## Lijsten
 
@@ -90,9 +93,9 @@ Het voorbeeld hierboven wordt als volgt weergegeven:
 Als u een ongeordende lijst of een lijst met opsommingstekens wilt opmaken, kunt u sterretjes of streepjes gebruiken. Zo wordt de volgende Markdown:
 
 ```
-- List item 1
-- List item 2
-- List item 3
+- Lijst item 1
+- Lijst item 2
+- Lijst item 3
 ```
 
 weergegeven als:
@@ -103,10 +106,10 @@ weergegeven als:
 Als u een lijst in een andere lijst wilt nesten, laat u de lijstitems van de onderliggende lijst inspringen. Zo wordt de volgende Markdown:
 
 ```
-- List item 1
-  - List item A
-  - List item B
-- List item 2
+- Lijst item 1
+  - Lijst item A
+  - Lijst item B
+- Lijst item 2
 ```
 
 weergegeven als:
@@ -120,29 +123,29 @@ weergegeven als:
 Als u een geordende lijst/stapsgewijze lijst wilt opmaken, gebruikt u de bijbehorende nummers. Zo wordt de volgende Markdown:
 
 ```
-1. First instruction
-1. Second instruction
-1. Third instruction
+1. Eerste item
+1. Tweede item
+1. Derde item
 ```
 
 weergegeven als:
-1. First instruction
-1. Second instruction
-1. Third instruction
+1. Eerste item
+1. Tweede item
+1. Derde item
 
 Als u een lijst in een andere lijst wilt nesten, laat u de lijstitems van de onderliggende lijst inspringen. Zo wordt de volgende Markdown:
 
 ```
-1. First instruction
-   1. Sub-instruction
-   1. Sub-instruction
-1. Second instruction
+1. Eerste item
+   1. Subitem
+   1. Subitem
+1. Tweede item
 ```
 
 weergegeven als:
-1. First instruction
-   1. Sub-instruction
-   1. Sub-instruction
-1. Second instruction
+1. Eerste item
+   1. Subitem
+   1. Subitem
+1. Tweede item
 
 Merk op dat we '1.' gebruiken voor alle vermeldingen. Hierdoor is het eenvoudiger om later verschillen te beoordelen als er in latere updates nieuwe stappen worden toegevoegd of bestaande stappen worden verwijderd.
