@@ -4,11 +4,12 @@
 Als u een kop wilt maken, gebruikt u een hash (#), als volgt:
 
 ```
-# Dit is kop 1
-## Dit is kop 2
-### Dit is kop 3
-#### Dit is kop 4
+# Dit is kop 1 (H1)
+## Dit is kop 2 (h2)
+### Dit is kop 3 (h3)
+#### Dit is kop 4 (h4)
 ```
+De titel van dit document "Basisbeginselen van Markdown" is een voorbeeld van een H1 kop.
 
 Hierboven vindt u voorbeelden van headers (H1, H2, H3 en H4) van het eerste tot vierde niveau maar niveau's tot en met 6 zijn mogelijk. Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
 
