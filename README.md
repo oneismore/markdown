@@ -31,6 +31,10 @@ Als u tekst als vet en cursief wilt opmaken, zet u de tekst tussen driedubbele s
 Deze tekst is zowel ***vet als cursief***.
 ```
 
+In de Markdown editor selecteert u eerst het stuk tekst dat u wilt aanpassen en daarna gebruikt u één van de knoppen zoals in dit voorbeeld:
+
+![Teksteditor](markdown-bold.png?raw=true "Teksteditor")
+
 ## Link
 Als u een [link](https://wikipedia.org) wilt maken dan doet u dat als volgt:
 
