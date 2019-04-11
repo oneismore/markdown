@@ -80,12 +80,10 @@ Blokcitaten (quotes) worden gemaakt met het teken >:
 
 ```
 > Caravans willen helemaal niet op vakantie. Vandaar dat die auto's zo hard moeten trekken.
-> Kees van Kooten
 ```
 
 Het voorbeeld hierboven wordt als volgt weergegeven:
 > Caravans willen helemaal niet op vakantie. Vandaar dat die auto's zo hard moeten trekken.
-> Kees van Kooten
 
 ## Lijsten
 
