@@ -32,10 +32,10 @@ Deze tekst is zowel ***vet als cursief***.
 ```
 
 ## Link
-Als u een [link](http://wikipedia.org) wilt maken dan doet u dat als volgt:
+Als u een [link](https://wikipedia.org) wilt maken dan doet u dat als volgt:
 
 ```
-<http://wikipedia.org>
+<https://wikipedia.org>
 ```
 
 Met tekst er bij:
@@ -48,13 +48,13 @@ Met tekst er bij:
 Een link naar een e-mailadres maakt u als volgt:
 
 ```
-<info@website.nl>
+<info@cavallieri.nl>
 ```
 
 Met tekst er bij:
 
 ```
-[Stuur me een e-mail](mailto:info@website.nl)
+[Stuur me een e-mail](mailto:info@cavallieri.nl)
 ```
 
 ## Horizontale lijn
