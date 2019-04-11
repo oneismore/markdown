@@ -13,25 +13,26 @@ Als u een kop wilt maken, gebruikt u een hash (#), als volgt:
 Hierboven vindt u voorbeelden van headers (H1, H2, H3 en H4) van het eerste tot vierde niveau maar niveau's tot en met 6 zijn mogelijk. Uw onderwerp mag maar één header van het eerste niveau (H1) bevatten. Deze wordt op de pagina weergegeven als de titel.
 
 ## Vetgedrukte en cursieve tekst
-Als u tekst als vet wilt opmaken, zet u de tekst tussen dubbele sterretjes:
+Als u tekst als **vet** wilt opmaken, zet u de tekst tussen dubbele sterretjes:
 
 ```
 Deze tekst is **vet**.
 ```
 
-Als u tekst als cursief wilt opmaken, zet u de tekst tussen enkele sterretjes:
+Als u tekst als *cursief* wilt opmaken, zet u de tekst tussen enkele sterretjes:
 
 ```
 Deze tekst is *cursief*.
 ```
 
-Als u tekst als vet en cursief wilt opmaken, zet u de tekst tussen driedubbele sterretjes:
+Als u tekst als ***vet en cursief*** wilt opmaken, zet u de tekst tussen driedubbele sterretjes:
 
 ```
 Deze tekst is zowel ***vet als cursief***.
 ```
 
-In de Markdown editor selecteert u eerst het stuk tekst dat u wilt aanpassen en daarna gebruikt u één van de knoppen zoals in dit voorbeeld:
+## Markdown editor
+Als u de Markdown editor gebruikt dan selecteert u eerst het stuk tekst dat u wilt aanpassen. Daarna gebruikt u één van de knoppen zoals in dit voorbeeld:
 
 ![Teksteditor](markdown-bold.png?raw=true "Teksteditor")
 
