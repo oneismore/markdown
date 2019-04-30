@@ -75,7 +75,11 @@ Gebruik dan de Link knop in de editor en kies het bestand:
 
 ![Bestand](link.png?raw=true "Bestand")
 
+Waarna deze zichtbaar wordt in het tekstveld:
 
+![Download](download.png?raw=true "Download")
+
+Pas eventueel de tekst nog aan ```(file: testdocument.pdf text: Testdocument) ```.
 
 ## Horizontale lijn
 Als u een horizontale lijn wilt toevoegen om teksten te scheiden gebruikt u 4 sterretjes:
