@@ -1,5 +1,8 @@
 # Basisbeginselen van Markdown
 
+## Wat is Markdown?
+Markdown is een lichtgewicht universele opmaaktaal op basis van platte tekst die zodanig ontworpen is dat het gemakkelijk valt te converteren naar andere formaten zoals HTML, Word of RTF.
+
 ## Markdown editor
 Als u de Markdown editor gebruikt dan selecteert u eerst het stuk tekst dat u wilt aanpassen. Daarna gebruikt u één van de knoppen zoals in dit voorbeeld:
 
