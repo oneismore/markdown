@@ -71,9 +71,11 @@ Upload éérst het bestand (bijvoorbeeld een PDF) onder Bestanden:
 
 ![Bestanden](files.png?raw=true "Bestanden")
 
-Gebruik dan de Link knop in de editor:
+Gebruik dan de Link knop in de editor en kies het bestand:
 
 ![Bestand](link.png?raw=true "Bestand")
+
+
 
 ## Horizontale lijn
 Als u een horizontale lijn wilt toevoegen om teksten te scheiden gebruikt u 4 sterretjes:
