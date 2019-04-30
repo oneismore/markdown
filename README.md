@@ -53,7 +53,7 @@ Met tekst er bij:
 [Wikipedia](http://wikipedia.org)
 ```
 
-## E-mailadres
+## Link met een e-mailadres
 Een link naar een e-mailadres maakt u als volgt:
 
 ```
@@ -65,6 +65,11 @@ Met tekst er bij:
 ```
 [Stuur me een e-mail](mailto:info@cavallieri.nl)
 ```
+
+## Link naar een bestand
+Upload éérst het bestand (bijvoorbeeld een PDF) onder Bestanden:
+
+Gebruik dan de Link knop in de editor:
 
 ## Horizontale lijn
 Als u een horizontale lijn wilt toevoegen om teksten te scheiden gebruikt u 4 sterretjes:
