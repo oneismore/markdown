@@ -140,7 +140,7 @@ weergegeven als:
 - List item 2
 
 ### Geordende lijst
-Als je een geordende lijst/stapsgewijze lijst wil opmaken, gebruikt u de bijbehorende nummers. Zo wordt de volgende Markdown:
+Als je een geordende lijst/stapsgewijze lijst wil opmaken, gebruik je de bijbehorende nummers. Zo wordt de volgende Markdown:
 
 ```
 1. Eerste item
