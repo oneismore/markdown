@@ -74,7 +74,7 @@ Met tekst er bij:
 ## Link naar een bestand
 Upload éérst het bestand (bijvoorbeeld een PDF) onder Documenten:
 
-![Bestanden](files.png?raw=true "Bestanden")
+![Bestanden](files2.png?raw=true "Bestanden")
 
 Gebruik dan de Link knop in de editor en kies het document:
 
